@@ -1,6 +1,6 @@
 {
   "name": "gitbook-install",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitBook plugins install tools",
   "main": "index.js",
   "bin": {

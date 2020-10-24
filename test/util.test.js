@@ -29,5 +29,4 @@ describe('gitbook-install 测试套件', function() {
       .generateArgs()
       .debug();
   });
-
 });

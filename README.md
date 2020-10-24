@@ -11,8 +11,10 @@ GitBook plugins install tools
 
 环境：
 
-- node.js 版本 >= 12.19.0
-- npm     脚本 >= 6.14.8
+- `node -v` >= 10.22.1
+- `npm  -v` >= 6.14.6
+- `gitbook --version` CLI version: 2.3.2, GitBook version: 3.2.3
+- 安装 gitbook 工具，运行命令：`sudo npm i -g gitbook-cli`
 
 用法：
 
