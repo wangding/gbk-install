@@ -1,0 +1,32 @@
+{
+  "name": "gitbook-install",
+  "version": "1.0.0",
+  "description": "GitBook plugins install tools",
+  "main": "index.js",
+  "bin": {
+    "gitbook-install": "./bin/gitbook-install.js"
+  },
+  "scripts": {
+    "test": "eslint . && NODE_DEBUG=util mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/gitbook-install.git"
+  },
+  "keywords": [
+    "GitBook",
+    "plugins",
+    "install"
+  ],
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/gitbook-install/issues"
+  },
+  "homepage": "https://github.com/wangding/gitbook-install#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.12.0",
+    "mocha": "^8.2.0"
+  }
+}
